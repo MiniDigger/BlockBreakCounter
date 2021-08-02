@@ -1,0 +1,7 @@
+name: BlockBreakCounter
+main: dev.benndorf.blockbreakcounter.BlockBreakCounter
+version: 1.0.0
+api-version: 1.17
+author: MiniDigger
+commands:
+  blockbreakcounter:

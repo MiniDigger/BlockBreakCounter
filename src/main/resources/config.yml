@@ -1,0 +1,9 @@
+interval: 100
+materials:
+  - GOLD_BLOCK
+  - DIAMOND_BLOCK
+  - IRON_BLOCK
+  - EMERALD_BLOCK
+  - ANCIENT_DEBRIS
+  - DEEPSLATE
+  - SMOOTH_STONE
